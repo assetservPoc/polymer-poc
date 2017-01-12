@@ -1,0 +1,7 @@
+{
+  "name": "assetServ-UI",
+  "short_name": "assetServ-UI",
+  "description": "dam solution",
+  "start_url": "/",
+  "display": "standalone"
+}
